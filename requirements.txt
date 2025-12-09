@@ -6,4 +6,6 @@ bs4
 arxiv
 pymupdf
 wikipedia
-langchain-text-splitter
+langchain-text-splitters
+langchain-openai
+chromadb
